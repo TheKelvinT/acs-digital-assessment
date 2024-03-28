@@ -10,4 +10,4 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/thekelvint/acs-digital-assessment.git
 
-2. ``` cd acs-digital-assessment
+2. ``` cd acs-digital-assessment ```
