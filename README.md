@@ -25,7 +25,7 @@ To get started with the project, follow these steps:
      ```bash
       Copy code
       npm run dev
-      Access the application at http://127.0.0.1:5173/
+      Access the application at http://127.0.0.1:5173/ or http://localhost:5173/
       ```
 6. Question 3:
 Code located in question3.ts file. You can test it by using inspect or pressing F12 in most browsers.

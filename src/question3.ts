@@ -5,7 +5,7 @@ export function twoSum(numbers: number[], target: number): number[] {
   while (left < right) {
     const sum = numbers[left] + numbers[right]
     if (sum === target) {
-      return [left + 1, right + 1] // Adding 1 to indices to make them 1-indexed
+      return [left + 1, right + 1] 
     } else if (sum < target) {
       left++
     } else {
@@ -13,7 +13,6 @@ export function twoSum(numbers: number[], target: number): number[] {
     }
   }
 
-  // If no solution is found, return an empty array
   return []
 }
 
